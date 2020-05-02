@@ -1,0 +1,8 @@
+class animal{
+
+       public static void main(String[] args){
+       System.out.println("this is zoo");
+       System.out.println("this is also a wild animals");
+       }
+}
+
